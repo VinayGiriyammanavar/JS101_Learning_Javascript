@@ -1,0 +1,14 @@
+let a = "Name:- krishna";
+console.log(a);
+let b = "School:- KE Board school Dharwad";
+console.log(b);
+let c = "section:- A";
+console.log(c);
+let d = "rollno:- 77";
+console.log(d);
+let e = "ENGLISH:- 93";
+console.log(e);
+let f = "MATHS:- 95";
+console.log(f);
+let g = "SCIENCE:- 79";
+console.log(g);
